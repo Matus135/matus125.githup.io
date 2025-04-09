@@ -6,7 +6,7 @@ const productos = [
     { id: 5, nombre: "Lámpara de Mesa", precio: 650, imagen: "imagenes/lamparaa.jpg" },
     { id: 6, nombre: "Espejo Decorativo", precio: 900, imagen: "imagenes/espejo.jpg" },
     { id: 7, nombre: "Alfombra Moderna", precio: 1200, imagen: "imagenes/alfombra.jpg" },
-    { id: 8, nombre: "Cortinas Elegantes", precio: 800, imagen: "imagenes/cortinasjpg.jpg" },
+    { id: 8, nombre: "Cortinas Elegantes", precio: 800, imagen: "./imagenes/cortinasjpg.jpg" },
     
     { id: 10, nombre: "Portaretratos", precio: 200, imagen: "imagenes/portaretratos.jpg" },
     { id: 11, nombre: "Jarrón Cerámico", precio: 550, imagen: "imagenes/jarron.jpg" },
